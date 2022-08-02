@@ -18,6 +18,19 @@
 ---
 ![Screenshot](problem.png)
 
+![Screenshot](result.png)
+
+![Screenshot](graph.png)
+
+![Screenshot](deploy1.png)
+
+![Screenshot](deploy2.png)
+
+![Screenshot](deploy3.png)
+
+![Screenshot](conclusion.png)
+
+
 
 
 
