@@ -9,12 +9,17 @@
 
 - The accuracy of various existing deep learning models / hybrid models can be improved using various techniques known today .The main focus here would be to try various techniques to improve the accuracy of various existing deep learning models / hybrid models and work on the deployment aspect of these models in the cloud platforms .
  
- 
+ ---
  ## Objectives of the Project
  
 - To improve the accuracy of the existing state of the art hybrid method in deep learning techniques for renewable energy forecasting .
 
 - To deploy deep learning models / hybrid models for renewable energy forecasting on cloud platforms , like Heroku cloud platform , Amazon Web Services , etc .
+
+---
+![Screenshot](problem.png)
+
+
 
 
 
