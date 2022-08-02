@@ -15,7 +15,6 @@
 - To improve the accuracy of the existing state of the art hybrid method in deep learning techniques for renewable energy forecasting .
 
 - To deploy deep learning models / hybrid models for renewable energy forecasting on cloud platforms , like Heroku cloud platform , Amazon Web Services , etc .
-
 ---
 ![Screenshot](problem.png)
 
