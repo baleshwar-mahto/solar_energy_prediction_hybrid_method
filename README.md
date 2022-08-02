@@ -1,0 +1,2 @@
+# solar_energy_prediction_neuralprophet
+Solar energy generation forecasting using NeuralProphet
